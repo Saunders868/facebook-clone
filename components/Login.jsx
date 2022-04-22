@@ -5,13 +5,13 @@ function Login() {
   return (
     <div className="grid place-items-center">
         <div className="flex">
-          <Image
+          {/* <Image
               src='https://links.papareact.com/t4i'
               height={400}
               width={400}
               objectFit='contain'
               alt="Facebook Logo"
-          />
+          /> */}
           <Image
               src='https://images.unsplash.com/photo-1572059002053-8cc5ad2f4a38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z29vZ2xlJTIwbG9nb3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60'
               height={300}
